@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeRescripted")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4982f34d1877c2a98503f8c57003706722db164b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15fc49768817ace43fc539f10919ac858fb8f579")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifeRescripted")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifeRescripted")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
