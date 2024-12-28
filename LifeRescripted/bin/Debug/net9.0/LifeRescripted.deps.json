@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LifeRescripted/1.0.0": {
+        "runtime": {
+          "LifeRescripted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LifeRescripted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
