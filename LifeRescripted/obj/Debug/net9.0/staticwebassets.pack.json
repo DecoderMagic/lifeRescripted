@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/LifeRescripted.rq6s5lepj3.bundle.scp.css"
     },
     {
+      "Id": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/blogs/blog1.txt",
+      "PackagePath": "staticwebassets/blogs/blog1.txt"
+    },
+    {
       "Id": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

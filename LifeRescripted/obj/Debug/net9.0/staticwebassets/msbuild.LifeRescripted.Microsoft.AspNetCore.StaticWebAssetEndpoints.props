@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/LifeRescripted/blogs/blog1.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\blogs\blog1.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Dec 2024 10:00:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LifeRescripted/blogs/blog1.xn5k7s8ru1.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\blogs\blog1.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xn5k7s8ru1"},{"Name":"integrity","Value":"sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="},{"Name":"label","Value":"_content/LifeRescripted/blogs/blog1.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Dec 2024 10:00:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LifeRescripted/css/site.9jcz020c87.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

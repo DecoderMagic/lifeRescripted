@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FlQp9nSmdoGmUz9Rflba9BNc8oFKKMTbKzn4VkgEwWA=",
+  "Hash": "QTgCjak8Npcr6GUKeO6bcHivt6QqokWmsCrXF4zb6EQ=",
   "Source": "LifeRescripted",
   "BasePath": "_content/LifeRescripted",
   "Mode": "Default",
@@ -920,6 +920,27 @@
       "OriginalItemSpec": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/lib/jquery/dist/jquery.js"
     },
     {
+      "Identity": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/sgu4nlzu3l-xn5k7s8ru1.gz",
+      "SourceId": "LifeRescripted",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LifeRescripted",
+      "RelativePath": "blogs/blog1#[.{fingerprint=xn5k7s8ru1}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/blogs/blog1.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "u9i88tfjgj",
+      "Integrity": "fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/blogs/blog1.txt"
+    },
+    {
       "Identity": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/sx8gsyht3f-l3n5xuwxn8.gz",
       "SourceId": "LifeRescripted",
       "SourceType": "Discovered",
@@ -1401,6 +1422,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/scopedcss/projectbundle/LifeRescripted.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/blogs/blog1.txt",
+      "SourceId": "LifeRescripted",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/",
+      "BasePath": "_content/LifeRescripted",
+      "RelativePath": "blogs/blog1#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xn5k7s8ru1",
+      "Integrity": "rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/blogs/blog1.txt"
     },
     {
       "Identity": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/css/site.css",
@@ -2769,6 +2811,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "blogs/blog1.txt",
+      "AssetFile": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/sgu4nlzu3l-xn5k7s8ru1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.034482758621"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.txt",
+      "AssetFile": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/blogs/blog1.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.txt.gz",
+      "AssetFile": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/sgu4nlzu3l-xn5k7s8ru1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s="
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.xn5k7s8ru1.txt",
+      "AssetFile": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/sgu4nlzu3l-xn5k7s8ru1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.034482758621"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn5k7s8ru1"
+        },
+        {
+          "Name": "label",
+          "Value": "blogs/blog1.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.xn5k7s8ru1.txt",
+      "AssetFile": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/blogs/blog1.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn5k7s8ru1"
+        },
+        {
+          "Name": "label",
+          "Value": "blogs/blog1.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.xn5k7s8ru1.txt.gz",
+      "AssetFile": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/sgu4nlzu3l-xn5k7s8ru1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn5k7s8ru1"
+        },
+        {
+          "Name": "label",
+          "Value": "blogs/blog1.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s="
+        }
+      ]
+    },
     {
       "Route": "css/site.9jcz020c87.css",
       "AssetFile": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/czif4zbjew-9jcz020c87.gz",

@@ -301,6 +301,304 @@
       ]
     },
     {
+      "Route": "blogs/blog1.txt",
+      "AssetFile": "blogs/blog1.txt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.034482758621"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.txt",
+      "AssetFile": "blogs/blog1.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.txt.gz",
+      "AssetFile": "blogs/blog1.txt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s="
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.xn5k7s8ru1.txt",
+      "AssetFile": "blogs/blog1.txt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.034482758621"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn5k7s8ru1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="
+        },
+        {
+          "Name": "label",
+          "Value": "blogs/blog1.txt"
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.xn5k7s8ru1.txt",
+      "AssetFile": "blogs/blog1.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn5k7s8ru1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfDWj97TOSsavpG/g8EcBoJTeYLfUhGuJED2kiz5SME="
+        },
+        {
+          "Name": "label",
+          "Value": "blogs/blog1.txt"
+        }
+      ]
+    },
+    {
+      "Route": "blogs/blog1.xn5k7s8ru1.txt.gz",
+      "AssetFile": "blogs/blog1.txt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 10:00:12 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn5k7s8ru1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqXrfeNwmwqLz202O09qWl0xgh5D3wWhDd/71tbMx0s="
+        },
+        {
+          "Name": "label",
+          "Value": "blogs/blog1.txt.gz"
+        }
+      ]
+    },
+    {
       "Route": "css/site.9jcz020c87.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
