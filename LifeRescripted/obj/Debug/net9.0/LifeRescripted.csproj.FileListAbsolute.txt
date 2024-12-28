@@ -17,7 +17,6 @@
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/scopedcss/bundle/LifeRescripted.styles.css
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/scopedcss/projectbundle/LifeRescripted.bundle.scp.css
-/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/czif4zbjew-lugek5hnai.gz
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/ewkmi2tbye-61n19gt1b8.gz
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/r654ax3w4d-fr7q2aak1r.gz
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/y3e59l55da-bqjiyaj88i.gz
@@ -79,8 +78,6 @@
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/i4aifkhbht-muycvpuwrr.gz
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/t8z5i8amyv-87fc7y1x7t.gz
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/zk57nb31cy-jfsiqqwiad.gz
-/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/gu74vwy5uq-w43lelhj3h.gz
-/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/gg6nkjfky0-w43lelhj3h.gz
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/staticwebassets.build.json
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/staticwebassets.development.json
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -96,3 +93,6 @@
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/LifeRescripted.genruntimeconfig.cache
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/ref/LifeRescripted.dll
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/LifeRescripted.sourcelink.json
+/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/gu74vwy5uq-rq6s5lepj3.gz
+/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/gg6nkjfky0-rq6s5lepj3.gz
+/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/czif4zbjew-9jcz020c87.gz

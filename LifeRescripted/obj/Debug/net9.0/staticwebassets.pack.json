@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/scopedcss/projectbundle/LifeRescripted.bundle.scp.css",
-      "PackagePath": "staticwebassets/LifeRescripted.w43lelhj3h.bundle.scp.css"
+      "PackagePath": "staticwebassets/LifeRescripted.rq6s5lepj3.bundle.scp.css"
     },
     {
       "Id": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/css/site.css",
@@ -11,6 +11,14 @@
     {
       "Id": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/images/LifeRescripted1Banner.jpg",
+      "PackagePath": "staticwebassets/images/LifeRescripted1Banner.jpg"
+    },
+    {
+      "Id": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/images/LifeRescripted1Profile.jpg",
+      "PackagePath": "staticwebassets/images/LifeRescripted1Profile.jpg"
     },
     {
       "Id": "/home/researcher6898/LifeRescripted/LifeRescripted/wwwroot/js/site.js",
