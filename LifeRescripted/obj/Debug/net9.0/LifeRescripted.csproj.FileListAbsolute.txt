@@ -95,3 +95,4 @@
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/LifeRescripted.pdb
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/LifeRescripted.genruntimeconfig.cache
 /home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/ref/LifeRescripted.dll
+/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/LifeRescripted.sourcelink.json
