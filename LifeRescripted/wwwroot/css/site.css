@@ -41,3 +41,11 @@ body {
   gap: 100px;
 }
 
+.nav-link.text-light {
+  font-size: 18px;
+}
+
+.custom-navbar {
+  background-color: #273b41;
+}
+
