@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mdcte\\OneDrive\\Documents\\GitHub\\lifeRescripted\\LifeRescripted\\LifeRescripted.csproj": {}
+    "/home/researcher6898/LifeRescripted/LifeRescripted/LifeRescripted.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mdcte\\OneDrive\\Documents\\GitHub\\lifeRescripted\\LifeRescripted\\LifeRescripted.csproj": {
+    "/home/researcher6898/LifeRescripted/LifeRescripted/LifeRescripted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdcte\\OneDrive\\Documents\\GitHub\\lifeRescripted\\LifeRescripted\\LifeRescripted.csproj",
+        "projectUniqueName": "/home/researcher6898/LifeRescripted/LifeRescripted/LifeRescripted.csproj",
         "projectName": "LifeRescripted",
-        "projectPath": "C:\\Users\\mdcte\\OneDrive\\Documents\\GitHub\\lifeRescripted\\LifeRescripted\\LifeRescripted.csproj",
-        "packagesPath": "C:\\Users\\mdcte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdcte\\OneDrive\\Documents\\GitHub\\lifeRescripted\\LifeRescripted\\obj\\",
+        "projectPath": "/home/researcher6898/LifeRescripted/LifeRescripted/LifeRescripted.csproj",
+        "packagesPath": "/home/researcher6898/.nuget/packages/",
+        "outputPath": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mdcte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/researcher6898/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/lib64/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
