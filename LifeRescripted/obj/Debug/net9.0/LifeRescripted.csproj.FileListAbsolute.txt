@@ -660,4 +660,4 @@ C:/Users/mdcte/OneDrive/Documents/GitHub/lifeRescripted/LifeRescripted/obj/Debug
 C:/Users/mdcte/OneDrive/Documents/GitHub/lifeRescripted/LifeRescripted/obj/Debug/net9.0/LifeRescripted.pdb
 C:/Users/mdcte/OneDrive/Documents/GitHub/lifeRescripted/LifeRescripted/obj/Debug/net9.0/LifeRescripted.genruntimeconfig.cache
 C:/Users/mdcte/OneDrive/Documents/GitHub/lifeRescripted/LifeRescripted/obj/Debug/net9.0/ref/LifeRescripted.dll
-/home/researcher6898/LifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/czif4zbjew-kgeg3ke6bw.gz
+/home/researcher6898/lifeRescripted/LifeRescripted/obj/Debug/net9.0/compressed/czif4zbjew-sxyx4unky7.gz

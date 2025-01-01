@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/researcher6898/LifeRescripted/LifeRescripted/LifeRescripted.csproj",
+      "projectUniqueName": "/home/researcher6898/lifeRescripted/LifeRescripted/LifeRescripted.csproj",
       "projectName": "LifeRescripted",
-      "projectPath": "/home/researcher6898/LifeRescripted/LifeRescripted/LifeRescripted.csproj",
+      "projectPath": "/home/researcher6898/lifeRescripted/LifeRescripted/LifeRescripted.csproj",
       "packagesPath": "/home/researcher6898/.nuget/packages/",
-      "outputPath": "/home/researcher6898/LifeRescripted/LifeRescripted/obj/",
+      "outputPath": "/home/researcher6898/lifeRescripted/LifeRescripted/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/researcher6898/.nuget/NuGet/NuGet.Config"
